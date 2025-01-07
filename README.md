@@ -31,5 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvaathanikar2003&show_icons=true&locale=en" alt="atharvaathanikar2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvaathanikar2003&" alt="atharvaathanikar2003" /></p>
-
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AtharvaAthanikar2003&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a></p>
